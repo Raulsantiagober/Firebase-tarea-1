@@ -1,0 +1,17 @@
+# === Archivos de configuración sensibles ===
+.env
+*.json
+
+# === Carpetas de caché y compilación ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Archivos temporales del sistema ===
+.DS_Store
+Thumbs.db
+
+# === Entorno virtual (si lo usas) ===
+venv/
+.env/
